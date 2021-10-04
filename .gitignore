@@ -1,0 +1,30 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# pyenv
+.python-version
+
+
+# Cache
+*.pyc
+__pycache__
+*.py[cod]
+*$py.class
+
+
+# Visual Studio Code # 
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+.vs/
+
+# Log files
+pip-log.txt
+pip-delete-this-directory.txt
+*.log
